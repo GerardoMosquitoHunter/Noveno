@@ -1,1 +1,14 @@
 .clase1 { font-size: 30px; }
+body{
+  background-color:beige;;
+  font-family:Perpetua;
+  text-align:justify;
+}
+#menu{
+  background-color:white;
+}
+
+#titulo{
+  text-align:center;
+  font-family:Trebuchet MS;
+}
